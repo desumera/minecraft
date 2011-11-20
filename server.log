@@ -1,0 +1,39 @@
+2011-11-20 08:03:23 [INFO] Starting minecraft server version Beta 1.8.1
+2011-11-20 08:03:23 [INFO] Loading properties
+2011-11-20 08:03:23 [WARNING] server.properties does not exist
+2011-11-20 08:03:23 [INFO] Generating new properties file
+2011-11-20 08:03:23 [INFO] Starting Minecraft server on *:25565
+2011-11-20 08:03:23 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
+2011-11-20 08:03:23 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
+2011-11-20 08:03:23 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (No such file or directory)
+2011-11-20 08:03:23 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (No such file or directory)
+2011-11-20 08:03:23 [INFO] Preparing level "world"
+2011-11-20 08:03:23 [INFO] Default game type: 0
+2011-11-20 08:03:23 [INFO] Preparing start region for level 0
+2011-11-20 08:03:24 [INFO] Preparing spawn area: 12%
+2011-11-20 08:03:25 [INFO] Preparing spawn area: 32%
+2011-11-20 08:03:27 [INFO] Preparing spawn area: 52%
+2011-11-20 08:03:28 [INFO] Preparing spawn area: 77%
+2011-11-20 08:03:28 [INFO] Preparing start region for level 1
+2011-11-20 08:03:29 [INFO] Preparing spawn area: 0%
+2011-11-20 08:03:30 [INFO] Preparing spawn area: 20%
+2011-11-20 08:03:31 [INFO] Preparing spawn area: 44%
+2011-11-20 08:03:32 [INFO] Preparing spawn area: 69%
+2011-11-20 08:03:33 [INFO] Preparing spawn area: 89%
+2011-11-20 08:03:33 [INFO] Done (9763386299ns)! For help, type "help" or "?"
+2011-11-20 08:03:50 [INFO] CONSOLE: Stopping the server..
+2011-11-20 08:03:50 [INFO] Stopping server
+2011-11-20 08:03:50 [INFO] Saving chunks
+2011-11-20 08:03:51 [INFO] Saving chunks
+2011-11-20 08:03:54 [INFO] Starting minecraft server version Beta 1.8.1
+2011-11-20 08:03:54 [INFO] Loading properties
+2011-11-20 08:03:54 [INFO] Starting Minecraft server on *:25565
+2011-11-20 08:03:54 [INFO] Preparing level "world"
+2011-11-20 08:03:54 [INFO] Default game type: 0
+2011-11-20 08:03:54 [INFO] Preparing start region for level 0
+2011-11-20 08:03:55 [INFO] Preparing spawn area: 16%
+2011-11-20 08:03:56 [INFO] Preparing spawn area: 56%
+2011-11-20 08:03:57 [INFO] Preparing spawn area: 77%
+2011-11-20 08:03:58 [INFO] Preparing start region for level 1
+2011-11-20 08:03:58 [INFO] Preparing spawn area: 40%
+2011-11-20 08:03:58 [INFO] Done (4328160230ns)! For help, type "help" or "?"
