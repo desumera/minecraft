@@ -1,83 +1,395 @@
-2011-11-20 08:03:23 [INFO] Starting minecraft server version Beta 1.8.1
-2011-11-20 08:03:23 [INFO] Loading properties
-2011-11-20 08:03:23 [WARNING] server.properties does not exist
-2011-11-20 08:03:23 [INFO] Generating new properties file
-2011-11-20 08:03:23 [INFO] Starting Minecraft server on *:25565
-2011-11-20 08:03:23 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
-2011-11-20 08:03:23 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
-2011-11-20 08:03:23 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (No such file or directory)
-2011-11-20 08:03:23 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (No such file or directory)
-2011-11-20 08:03:23 [INFO] Preparing level "world"
-2011-11-20 08:03:23 [INFO] Default game type: 0
-2011-11-20 08:03:23 [INFO] Preparing start region for level 0
-2011-11-20 08:03:24 [INFO] Preparing spawn area: 12%
-2011-11-20 08:03:25 [INFO] Preparing spawn area: 32%
-2011-11-20 08:03:27 [INFO] Preparing spawn area: 52%
-2011-11-20 08:03:28 [INFO] Preparing spawn area: 77%
-2011-11-20 08:03:28 [INFO] Preparing start region for level 1
-2011-11-20 08:03:29 [INFO] Preparing spawn area: 0%
-2011-11-20 08:03:30 [INFO] Preparing spawn area: 20%
-2011-11-20 08:03:31 [INFO] Preparing spawn area: 44%
-2011-11-20 08:03:32 [INFO] Preparing spawn area: 69%
-2011-11-20 08:03:33 [INFO] Preparing spawn area: 89%
-2011-11-20 08:03:33 [INFO] Done (9763386299ns)! For help, type "help" or "?"
-2011-11-20 08:03:50 [INFO] CONSOLE: Stopping the server..
-2011-11-20 08:03:50 [INFO] Stopping server
-2011-11-20 08:03:50 [INFO] Saving chunks
-2011-11-20 08:03:51 [INFO] Saving chunks
-2011-11-20 08:03:54 [INFO] Starting minecraft server version Beta 1.8.1
-2011-11-20 08:03:54 [INFO] Loading properties
-2011-11-20 08:03:54 [INFO] Starting Minecraft server on *:25565
-2011-11-20 08:03:54 [INFO] Preparing level "world"
-2011-11-20 08:03:54 [INFO] Default game type: 0
-2011-11-20 08:03:54 [INFO] Preparing start region for level 0
-2011-11-20 08:03:55 [INFO] Preparing spawn area: 16%
-2011-11-20 08:03:56 [INFO] Preparing spawn area: 56%
-2011-11-20 08:03:57 [INFO] Preparing spawn area: 77%
-2011-11-20 08:03:58 [INFO] Preparing start region for level 1
-2011-11-20 08:03:58 [INFO] Preparing spawn area: 40%
-2011-11-20 08:03:58 [INFO] Done (4328160230ns)! For help, type "help" or "?"
-2011-11-20 08:22:39 [INFO] Starting minecraft server version Beta 1.8.1
-2011-11-20 08:22:39 [INFO] Loading properties
-2011-11-20 08:22:39 [INFO] Starting Minecraft server on *:25565
-2011-11-20 08:22:39 [INFO] Preparing level "world"
-2011-11-20 08:22:39 [INFO] Default game type: 0
-2011-11-20 08:22:39 [INFO] Preparing start region for level 0
-2011-11-20 08:22:40 [INFO] Preparing start region for level 1
-2011-11-20 08:22:40 [INFO] Done (1006204908ns)! For help, type "help" or "?"
-2011-11-20 08:25:15 [INFO] /192.168.1.3:56494 lost connection
-2011-11-20 08:25:54 [INFO] Starting minecraft server version 1.0.0
-2011-11-20 08:25:54 [INFO] Loading properties
-2011-11-20 08:25:54 [INFO] Starting Minecraft server on *:25565
-2011-11-20 08:25:54 [INFO] Preparing level "world"
-2011-11-20 08:25:54 [INFO] Default game type: 0
-2011-11-20 08:25:54 [INFO] Preparing start region for level 0
-2011-11-20 08:25:54 [INFO] Done (515386936ns)! For help, type "help" or "?"
-2011-11-20 08:26:27 [INFO] jollysnowman [/192.168.1.3:56513] logged in with entity id 167 at (-2.5, 63.62000000476837, 2.5)
-2011-11-20 08:28:30 [INFO] jollysnowman lost connection: disconnect.quitting
-2011-11-20 08:28:40 [INFO] CONSOLE: Stopping the server..
-2011-11-20 08:28:40 [INFO] Stopping server
-2011-11-20 08:28:40 [INFO] Saving chunks
-2011-11-20 08:28:40 [INFO] Saving chunks
-2011-11-20 08:28:40 [INFO] Saving chunks
-2011-11-20 08:28:47 [INFO] Starting minecraft server version 1.0.0
-2011-11-20 08:28:47 [INFO] Loading properties
-2011-11-20 08:28:47 [INFO] Starting Minecraft server on *:25565
-2011-11-20 08:28:47 [INFO] Preparing level "world"
-2011-11-20 08:28:47 [INFO] Default game type: 0
-2011-11-20 08:28:49 [INFO] Preparing start region for level 0
-2011-11-20 08:28:50 [INFO] Preparing spawn area: 12%
-2011-11-20 08:28:51 [INFO] Preparing spawn area: 28%
-2011-11-20 08:28:52 [INFO] Preparing spawn area: 52%
-2011-11-20 08:28:53 [INFO] Preparing spawn area: 65%
-2011-11-20 08:28:54 [INFO] Preparing spawn area: 85%
-2011-11-20 08:28:55 [INFO] Done (7536315786ns)! For help, type "help" or "?"
-2011-11-20 08:30:21 [INFO] jollysnowman [/192.168.1.3:56548] logged in with entity id 3650 at (197.5, 67.62000000476837, 157.5)
-2011-11-20 08:31:02 [INFO] jollysnowman lost connection: disconnect.quitting
-2011-11-20 08:31:08 [INFO] Unknown console command. Type "help" for help.
-2011-11-20 08:31:14 [INFO] Unknown console command. Type "help" for help.
-2011-11-20 08:31:16 [INFO] CONSOLE: Stopping the server..
-2011-11-20 08:31:16 [INFO] Stopping server
-2011-11-20 08:31:16 [INFO] Saving chunks
-2011-11-20 08:31:16 [INFO] Saving chunks
-2011-11-20 08:31:16 [INFO] Saving chunks
+2011-11-20 08:48:40 [INFO] Starting minecraft server version 1.0.0
+2011-11-20 08:48:40 [INFO] Loading properties
+2011-11-20 08:48:40 [WARNING] server.properties does not exist
+2011-11-20 08:48:40 [INFO] Generating new properties file
+2011-11-20 08:48:40 [INFO] Starting Minecraft server on *:25565
+2011-11-20 08:48:40 [INFO] Preparing level "world"
+2011-11-20 08:48:40 [INFO] Default game type: 0
+2011-11-20 08:48:41 [INFO] Preparing start region for level 0
+2011-11-20 08:48:42 [INFO] Preparing spawn area: 12%
+2011-11-20 08:48:43 [INFO] Preparing spawn area: 28%
+2011-11-20 08:48:44 [INFO] Preparing spawn area: 52%
+2011-11-20 08:48:45 [INFO] Preparing spawn area: 69%
+2011-11-20 08:48:46 [INFO] Preparing spawn area: 85%
+2011-11-20 08:48:46 [INFO] Done (6114977674ns)! For help, type "help" or "?"
+2011-11-20 08:49:22 [INFO] jollysnowman [/192.168.1.3:56746] logged in with entity id 7024 at (219.5, 64.62000000476837, 20.5)
+2011-11-20 08:49:46 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-20 08:49:47 [INFO] /99.184.79.101:55081 lost connection
+2011-11-20 08:49:48 [INFO] jollysnowman [/99.184.79.101:55096] logged in with entity id 7354 at (233.72410354198308, 63.0, 45.405739982934975)
+2011-11-20 08:50:13 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-20 08:53:55 [INFO] jollysnowman [/99.184.79.101:55126] logged in with entity id 7550 at (190.30655865421434, 64.0, 55.09823712601333)
+2011-11-20 08:56:53 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-20 08:57:08 [INFO] /192.168.1.3:56773 lost connection
+2011-11-20 08:57:16 [INFO] Starting minecraft server version 1.0.0
+2011-11-20 08:57:16 [INFO] Loading properties
+2011-11-20 08:57:16 [INFO] Starting Minecraft server on *:25565
+2011-11-20 08:57:16 [INFO] Preparing level "world"
+2011-11-20 08:57:16 [INFO] Default game type: 0
+2011-11-20 08:57:16 [INFO] Preparing start region for level 0
+2011-11-20 08:57:17 [INFO] Preparing spawn area: 8%
+2011-11-20 08:57:18 [INFO] Preparing spawn area: 20%
+2011-11-20 08:57:19 [INFO] Preparing spawn area: 40%
+2011-11-20 08:57:20 [INFO] Preparing spawn area: 69%
+2011-11-20 08:57:21 [INFO] Done (4425576311ns)! For help, type "help" or "?"
+2011-11-20 08:58:45 [INFO] jollysnowman [/192.168.1.3:56832] logged in with entity id 2514 at (213.2803746773012, 64.0, 26.69947461540231)
+2011-11-20 08:59:23 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-20 09:15:31 [INFO] jollysnowman [/192.168.1.3:57148] logged in with entity id 2771 at (210.7129919637874, 64.0, 26.553830493911676)
+2011-11-20 09:19:31 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-20 09:36:20 [INFO] bccbrendan [/99.184.79.101:55334] logged in with entity id 4302 at (-1.5, 74.62000000476837, -7.5)
+2011-11-20 09:39:10 [INFO] deleryth [/99.184.79.101:55309] logged in with entity id 6705 at (8.5, 73.62000000476837, -0.5)
+2011-11-20 09:39:21 [INFO] <bccbrendan> e
+2011-11-20 09:39:24 [INFO] <bccbrendan> sup
+2011-11-20 09:39:40 [INFO] <bccbrendan> oh its night btw
+2011-11-20 09:39:44 [INFO] <deleryth> i see that
+2011-11-20 09:40:05 [INFO] <bccbrendan> -161 57 -91
+2011-11-20 09:40:58 [INFO] jollysnowman [/99.184.79.101:55198] logged in with entity id 8200 at (232.6660638391408, 64.0, 30.4498265559131)
+2011-11-20 09:41:04 [INFO] <bccbrendan> hello
+2011-11-20 09:41:08 [INFO] <jollysnowman> hola
+2011-11-20 09:41:10 [INFO] <jollysnowman> it's dark
+2011-11-20 09:41:19 [INFO] <bccbrendan> ive got a cave at -161 57 -91
+2011-11-20 09:41:30 [INFO] <jollysnowman> i'm on an island
+2011-11-20 09:41:36 [INFO] <bccbrendan> oh nice
+2011-11-20 09:42:39 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-20 09:43:21 [INFO] /99.184.79.101:55081 lost connection
+2011-11-20 09:43:24 [INFO] deleryth tried command: teleport bccbrendan
+2011-11-20 09:43:46 [INFO] jollysnowman [/192.168.1.10:60101] logged in with entity id 10176 at (251.62894908782394, 58.0, 36.30000001192093)
+2011-11-20 09:48:53 [INFO] <jollysnowman> that's the way down
+2011-11-20 09:50:32 [INFO] <jollysnowman> spare wood?
+2011-11-20 09:57:58 [INFO] <jollysnowman> what kind of house are we making
+2011-11-20 09:58:32 [INFO] <bccbrendan> lets just make it a wood cabin
+2011-11-20 09:58:52 [INFO] <bccbrendan> thomas get back here so we can sleep
+2011-11-20 09:59:01 [INFO] <jollysnowman> THOMAS
+2011-11-20 09:59:03 [INFO] <jollysnowman> THOMAS
+2011-11-20 09:59:04 [INFO] <jollysnowman> THOMAS
+2011-11-20 09:59:29 [INFO] <jollysnowman> brendan
+2011-11-20 09:59:31 [INFO] <jollysnowman> BRENDAN
+2011-11-20 09:59:33 [INFO] <jollysnowman> BRENDAN
+2011-11-20 09:59:59 [INFO] <jollysnowman> off to get wheeat thingas
+2011-11-20 10:04:21 [INFO] <jollysnowman> we should start making one of those giant wheat farms
+2011-11-20 10:04:29 [INFO] <bccbrendan> yeah
+2011-11-20 10:04:41 [INFO] <jollysnowman> going to get more cobblestone
+2011-11-20 10:06:09 [INFO] <bccbrendan> im worried that the snow will fuck with the wheat farm
+2011-11-20 10:06:14 [INFO] <jollysnowman> hm
+2011-11-20 10:06:16 [INFO] <jollysnowman> roof?
+2011-11-20 10:06:23 [INFO] <jollysnowman> let's put it by water
+2011-11-20 10:06:38 [INFO] <jollysnowman> brendan aqui
+2011-11-20 10:07:03 [INFO] <bccbrendan> the water here freezes
+2011-11-20 10:07:11 [INFO] <jollysnowman> one biome over
+2011-11-20 10:07:11 [INFO] <bccbrendan> so we need to farm in another area
+2011-11-20 10:07:42 [INFO] <jollysnowman> we should rebase in this biome
+2011-11-20 10:07:45 [INFO] <jollysnowman> closer to farms
+2011-11-20 10:07:52 [INFO] <jollysnowman> git rebase
+2011-11-20 10:07:55 [INFO] <bccbrendan> lol
+2011-11-20 10:09:41 [INFO] <bccbrendan> sleep time?
+2011-11-20 10:10:51 [INFO] <jollysnowman> you can get there by land
+2011-11-20 10:12:12 [INFO] <jollysnowman> -170 -217
+2011-11-20 10:14:09 [INFO] <jollysnowman> coord plz
+2011-11-20 10:14:24 [INFO] <bccbrendan> -7
+2011-11-20 10:14:27 [INFO] <bccbrendan> -227
+2011-11-20 10:19:08 [INFO] <bccbrendan> alright its looking good
+2011-11-20 10:20:32 [INFO] <bccbrendan> sleep time
+2011-11-20 10:20:32 [INFO] <jollysnowman> base?
+2011-11-20 10:20:45 [INFO] <jollysnowman> we can make new beds
+2011-11-20 10:22:10 [INFO] <jollysnowman> torch the house
+2011-11-20 10:23:31 [INFO] <jollysnowman> should we take this opportunity to rebase
+2011-11-20 10:28:38 [INFO] deleryth lost connection: disconnect.genericReason
+2011-11-20 10:29:03 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 10:36:20 [INFO] /99.184.79.101:55187 lost connection
+2011-11-20 10:37:09 [INFO] /99.184.79.101:55128 lost connection
+2011-11-20 10:37:24 [INFO] /99.184.79.101:55768 lost connection
+2011-11-20 10:38:11 [INFO] deleryth [/192.168.1.6:49198] logged in with entity id 63218 at (-150.3125, 64.0, -94.375)
+2011-11-20 10:55:45 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-20 11:07:04 [INFO] deleryth lost connection: disconnect.quitting
+2011-11-20 11:10:39 [INFO] /192.168.1.10:60188 lost connection
+2011-11-20 11:10:43 [INFO] jollysnowman [/99.184.79.101:55488] logged in with entity id 75718 at (-156.1871599814424, 56.0, -65.80698426423382)
+2011-11-20 11:10:53 [INFO] deleryth [/99.184.79.101:55701] logged in with entity id 75867 at (-153.28125, 64.0, -90.78125)
+2011-11-20 11:13:22 [INFO] deleryth tried command: teleport jollysnowman deleryth
+2011-11-20 11:57:52 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-20 11:59:07 [INFO] To run the server without a gui, start it like this:
+2011-11-20 11:59:07 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-11-20 11:59:07 [INFO] Console commands:
+2011-11-20 11:59:07 [INFO]    help  or  ?               shows this message
+2011-11-20 11:59:07 [INFO]    kick <player>             removes a player from the server
+2011-11-20 11:59:07 [INFO]    ban <player>              bans a player from the server
+2011-11-20 11:59:07 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-11-20 11:59:07 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-11-20 11:59:07 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-11-20 11:59:07 [INFO]    op <player>               turns a player into an op
+2011-11-20 11:59:07 [INFO]    deop <player>             removes op status from a player
+2011-11-20 11:59:07 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-11-20 11:59:07 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-11-20 11:59:07 [INFO]    tell <player> <message>   sends a private message to a player
+2011-11-20 11:59:07 [INFO]    stop                      gracefully stops the server
+2011-11-20 11:59:07 [INFO]    save-all                  forces a server-wide level save
+2011-11-20 11:59:07 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-11-20 11:59:07 [INFO]    save-on                   re-enables terrain saving
+2011-11-20 11:59:07 [INFO]    list                      lists all currently connected players
+2011-11-20 11:59:07 [INFO]    say <message>             broadcasts a message to all players
+2011-11-20 11:59:07 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2011-11-20 11:59:07 [INFO]    gamemode <player> <mode>  sets player's game mode (0 or 1)
+2011-11-20 11:59:18 [INFO] CONSOLE: Opping deleryth
+2011-11-20 11:59:23 [INFO] CONSOLE: Opping jollysnowman
+2011-11-20 11:59:27 [INFO] [CONSOLE] you're admin now
+2011-11-20 11:59:33 [INFO] CONSOLE: Opping bccbrendan
+2011-11-20 12:23:50 [INFO] deleryth lost connection: disconnect.quitting
+2011-11-20 12:29:51 [INFO] bccbrendan [/99.184.79.101:56322] logged in with entity id 128020 at (-153.15963777466686, 64.0, -89.9773598659301)
+2011-11-20 12:31:18 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 12:36:05 [INFO] bccbrendan [/99.184.79.101:55308] logged in with entity id 128827 at (-161.69999998807907, 56.0, -68.99257340671446)
+2011-11-20 12:43:38 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 13:37:07 [INFO] /99.184.79.101:56555 lost connection
+2011-11-20 13:37:22 [INFO] /99.184.79.101:56793 lost connection
+2011-11-20 13:37:44 [INFO] bccbrendan [/99.184.79.101:55307] logged in with entity id 133202 at (-185.5846455966015, 33.0, -92.32977745624677)
+2011-11-20 13:39:01 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 13:48:54 [INFO] /99.184.79.101:55288 lost connection
+2011-11-20 13:51:30 [INFO] bccbrendan [/99.184.79.101:55777] logged in with entity id 133682 at (-187.30000001192093, 44.0, -102.5766996921512)
+2011-11-20 13:57:31 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 14:15:53 [INFO] deleryth [/99.184.79.101:55921] logged in with entity id 135667 at (-153.68896195209769, 64.0, -87.789684618306)
+2011-11-20 14:16:03 [INFO] /99.184.79.101:55480 lost connection
+2011-11-20 14:16:17 [INFO] /99.184.79.101:56873 lost connection
+2011-11-20 14:16:36 [INFO] bccbrendan [/99.184.79.101:55636] logged in with entity id 135922 at (-150.42500001192093, 64.28151586699369, -85.30000001192093)
+2011-11-20 14:16:40 [INFO] <bccbrendan> sup
+2011-11-20 14:18:20 [INFO] <bccbrendan> lololol
+2011-11-20 14:22:36 [INFO] /99.184.79.101:55497 lost connection
+2011-11-20 14:23:32 [INFO] /192.168.1.10:60413 lost connection
+2011-11-20 14:23:57 [INFO] /192.168.1.10:60419 lost connection
+2011-11-20 14:24:06 [INFO] Disconnecting /99.184.79.101:55670: Took too long to log in
+2011-11-20 14:24:27 [INFO] jollysnowman [/99.184.79.101:55235] logged in with entity id 139298 at (-149.625, 64.0, -91.71875)
+2011-11-20 14:24:43 [INFO] /99.184.79.101:56328 lost connection
+2011-11-20 14:24:52 [INFO] /99.184.79.101:56786 lost connection
+2011-11-20 14:25:37 [INFO] StarfleetWizard [/99.184.79.101:56346] logged in with entity id 139907 at (-1.5, 74.62000000476837, 1.5)
+2011-11-20 14:25:42 [INFO] <jollysnowman> anyone have iron
+2011-11-20 14:25:53 [INFO] <jollysnowman> gracias
+2011-11-20 14:25:56 [INFO] <bccbrendan> all i got
+2011-11-20 14:25:59 [INFO] <bccbrendan> got wool?
+2011-11-20 14:26:01 [INFO] <bccbrendan> hi Chase
+2011-11-20 14:26:08 [INFO] <jollysnowman> no wool
+2011-11-20 14:26:42 [INFO] <jollysnowman> what happened to the beds
+2011-11-20 14:28:38 [INFO] <bccbrendan> like this
+2011-11-20 14:28:39 [INFO] <jollysnowman> hahahahahahaha
+2011-11-20 14:28:55 [INFO] <jollysnowman> what
+2011-11-20 14:30:19 [INFO] <jollysnowman> brendan get on skype
+2011-11-20 14:32:05 [INFO] <bccbrendan> sundown
+2011-11-20 14:32:11 [INFO] <bccbrendan> is everone close to the house?
+2011-11-20 14:32:29 [INFO] <bccbrendan> good night friends
+2011-11-20 14:33:55 [INFO] <jollysnowman> main wheat farm still isn't ready
+2011-11-20 14:34:02 [INFO] <jollysnowman> yup
+2011-11-20 14:34:34 [INFO] <jollysnowman> we need to find two cows
+2011-11-20 14:34:36 [INFO] <jollysnowman> to breed
+2011-11-20 14:35:00 [INFO] <StarfleetWizard> I CARVED FUCK INTO THE SNOW!
+2011-11-20 14:40:30 [INFO] <jollysnowman> main one
+2011-11-20 14:40:56 [INFO] <jollysnowman> who stole the bucket of water from the wheat farm
+2011-11-20 14:41:04 [INFO] <bccbrendan> i got it
+2011-11-20 14:42:12 [INFO] <bccbrendan> you still need help at the wheat farm?
+2011-11-20 14:42:23 [INFO] <jollysnowman> can't do anything without the bucket ;) heading home
+2011-11-20 14:42:38 [INFO] <bccbrendan> nearly night anyway
+2011-11-20 14:43:38 [INFO] <bccbrendan> bedtime
+2011-11-20 14:47:02 [INFO] <bccbrendan> DIAMONDS
+2011-11-20 14:47:15 [INFO] <bccbrendan> just found two...
+2011-11-20 14:47:21 [INFO] <bccbrendan> DIAMOND HOE!
+2011-11-20 14:53:08 [INFO] <bccbrendan> itll keep you warm
+2011-11-20 14:53:29 [INFO] <bccbrendan> now we all have a furnace and a chest each
+2011-11-20 14:54:26 [INFO] <jollysnowman> brendan do you still have the bucket
+2011-11-20 14:54:32 [INFO] <bccbrendan> no
+2011-11-20 14:54:36 [INFO] <bccbrendan> but i have a bucket
+2011-11-20 14:56:02 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-20 14:56:49 [INFO] <bccbrendan> Minecraft rule number 3:
+2011-11-20 14:56:58 [INFO] <bccbrendan> Always keep a bucket of water in your hotbar
+2011-11-20 14:57:10 [INFO] /192.168.1.10:60518 lost connection
+2011-11-20 14:57:13 [INFO] /99.184.79.101:55851 lost connection
+2011-11-20 14:57:36 [INFO] /192.168.1.10:60527 lost connection
+2011-11-20 14:57:45 [INFO] jollysnowman [/192.168.1.10:60533] logged in with entity id 164620 at (-15.433052659678792, 72.0, -215.2463194983127)
+2011-11-20 14:58:45 [INFO] <bccbrendan> caught a chicken
+2011-11-20 14:59:53 [INFO] <bccbrendan> hold wheat in your hand
+2011-11-20 15:00:30 [INFO] <jollysnowman> they're not following
+2011-11-20 15:01:11 [INFO] <bccbrendan> just put them in a pit until we can make a fence
+2011-11-20 15:02:22 [INFO] <bccbrendan> need cows
+2011-11-20 15:03:18 [INFO] <bccbrendan> thats fine we dont need to make the pit bigger
+2011-11-20 15:03:42 [INFO] <jollysnowman> teleport
+2011-11-20 15:03:45 [INFO] jollysnowman issued server command: teleport
+2011-11-20 15:03:45 [INFO] Unknown console command. Type "help" for help.
+2011-11-20 15:04:09 [INFO] jollysnowman issued server command: teleport jollysnowman bccbrendan
+2011-11-20 15:04:09 [INFO] Unknown console command. Type "help" for help.
+2011-11-20 15:04:11 [INFO] <bccbrendan> try it with me first
+2011-11-20 15:04:13 [INFO] <bccbrendan> no risk
+2011-11-20 15:04:21 [INFO] jollysnowman issued server command: tp jollysnowman bccbrendan
+2011-11-20 15:04:21 [INFO] jollysnowman: Teleporting jollysnowman to bccbrendan.
+2011-11-20 15:04:26 [INFO] <jollysnowman> it's /tp a to b
+2011-11-20 15:05:42 [INFO] <jollysnowman> we also need community resource chests
+2011-11-20 15:05:51 [INFO] <jollysnowman> wood/cobblestone/dirt etc
+2011-11-20 15:05:54 [INFO] <bccbrendan> yep
+2011-11-20 15:06:25 [INFO] <bccbrendan> yeesh
+2011-11-20 15:06:36 [INFO] <jollysnowman> we need to sleep so chase can respawn
+2011-11-20 15:06:47 [INFO] <bccbrendan> what?
+2011-11-20 15:06:54 [INFO] jollysnowman issued server command: tp starfleetwizard jollysnowman
+2011-11-20 15:06:54 [INFO] jollysnowman: Teleporting starfleetwizard to jollysnowman.
+2011-11-20 15:06:54 [INFO] <bccbrendan> doesnt he just spawn in his bed?
+2011-11-20 15:06:59 [INFO] <jollysnowman> he hasn't slept
+2011-11-20 15:07:05 [INFO] <jollysnowman> he respawned in the wild
+2011-11-20 15:07:12 [INFO] <bccbrendan> ah
+2011-11-20 15:07:26 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 15:12:49 [INFO] jollysnowman issued server command: tp starfleetwizard jollysnowman
+2011-11-20 15:12:49 [INFO] jollysnowman: Teleporting starfleetwizard to jollysnowman.
+2011-11-20 15:22:30 [INFO] deleryth issued server command: tp deleryth starfleetwizard
+2011-11-20 15:22:30 [INFO] deleryth: Teleporting deleryth to starfleetwizard.
+2011-11-20 15:28:00 [INFO] /99.184.79.101:55230 lost connection
+2011-11-20 15:30:05 [INFO] <jollysnowman> wood planks in treasure room
+2011-11-20 15:30:20 [INFO] <jollysnowman> actually i'll start making fences
+2011-11-20 15:31:29 [INFO] bccbrendan [/99.184.79.101:56007] logged in with entity id 181085 at (-158.29175409517111, 56.0, -66.52962199749432)
+2011-11-20 15:31:34 [INFO] <bccbrendan> enderman
+2011-11-20 15:32:34 [INFO] <jollysnowman> BRENDAH
+2011-11-20 15:32:36 [INFO] <jollysnowman> oop
+2011-11-20 15:32:39 [INFO] <jollysnowman> brendan
+2011-11-20 15:34:41 [INFO] <jollysnowman> how large should the ranch be
+2011-11-20 15:34:49 [INFO] <bccbrendan> we'll do multiple cells
+2011-11-20 15:34:55 [INFO] <jollysnowman> of what size
+2011-11-20 15:35:01 [INFO] <bccbrendan> each cell should enclose 5x5
+2011-11-20 15:35:32 [INFO] <bccbrendan> one more
+2011-11-20 15:35:57 [INFO] <bccbrendan> lol
+2011-11-20 15:36:10 [INFO] <bccbrendan> wait i was wrong
+2011-11-20 15:36:15 [INFO] <jollysnowman> D:
+2011-11-20 15:36:21 [INFO] deleryth issued server command: tp deleryth starfleetwizard
+2011-11-20 15:36:21 [INFO] deleryth: Teleporting deleryth to starfleetwizard.
+2011-11-20 15:36:35 [INFO] <bccbrendan> ima make gates
+2011-11-20 15:38:10 [INFO] deleryth issued server command: tp deleryth bccbrendan
+2011-11-20 15:38:10 [INFO] deleryth: Teleporting deleryth to bccbrendan.
+2011-11-20 15:42:11 [INFO] <bccbrendan> ima go tend the other wheat farm
+2011-11-20 15:42:23 [INFO] <jollysnowman> lol ok. i was about to. you got it
+2011-11-20 15:44:36 [INFO] <bccbrendan> k im in bed
+2011-11-20 15:47:37 [INFO] bccbrendan lost connection: disconnect.genericReason
+2011-11-20 15:50:48 [INFO] /99.184.79.101:56671 lost connection
+2011-11-20 15:51:00 [INFO] bccbrendan [/99.184.79.101:55209] logged in with entity id 198304 at (-56.96875, 67.21875, 85.59375)
+2011-11-20 15:58:53 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-20 16:06:57 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 16:45:57 [INFO] StarfleetWizard lost connection: disconnect.quitting
+2011-11-20 16:46:37 [INFO] deleryth lost connection: disconnect.quitting
+2011-11-20 16:50:40 [INFO] bccbrendan [/99.184.79.101:55445] logged in with entity id 231760 at (-164.61280015049624, 14.0, -112.34260935713498)
+2011-11-20 17:00:46 [INFO] /192.168.1.10:60926 lost connection
+2011-11-20 17:00:55 [INFO] /99.184.79.101:55458 lost connection
+2011-11-20 17:01:11 [INFO] jollysnowman [/192.168.1.10:60942] logged in with entity id 235931 at (-156.5, 64.5625, -94.5)
+2011-11-20 17:01:47 [INFO] jollysnowman issued server command: list
+2011-11-20 17:05:54 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 17:11:09 [INFO] /99.184.79.101:56937 lost connection
+2011-11-20 17:11:57 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-20 17:56:02 [INFO] bccbrendan [/99.184.79.101:55242] logged in with entity id 250871 at (-145.58324603697164, 65.0, -107.93846091382031)
+2011-11-20 18:17:25 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 22:12:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-20 22:12:24 [INFO] /99.184.79.101:55608 lost connection
+2011-11-20 22:12:26 [INFO] Unknown console command. Type "help" for help.
+2011-11-20 22:12:29 [INFO] CONSOLE: Stopping the server..
+2011-11-20 22:12:29 [INFO] Stopping server
+2011-11-20 22:12:29 [INFO] Saving chunks
+2011-11-20 22:12:29 [INFO] Saving chunks
+2011-11-20 22:12:29 [INFO] Saving chunks
+2011-11-20 22:12:31 [INFO] Starting minecraft server version 1.0.0
+2011-11-20 22:12:31 [INFO] Loading properties
+2011-11-20 22:12:31 [INFO] Starting Minecraft server on *:25565
+2011-11-20 22:12:31 [INFO] Preparing level "world"
+2011-11-20 22:12:31 [INFO] Default game type: 0
+2011-11-20 22:12:31 [INFO] Preparing start region for level 0
+2011-11-20 22:12:32 [INFO] Done (614491925ns)! For help, type "help" or "?"
+2011-11-20 22:12:38 [INFO] bccbrendan [/99.184.79.101:55101] logged in with entity id 333 at (-151.61129473450262, 64.0, -91.62304499376357)
+2011-11-20 22:16:34 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 22:17:50 [INFO] bccbrendan [/99.184.79.101:56318] logged in with entity id 2056 at (-134.69949629887947, 13.0, -153.54461611126794)
+2011-11-20 22:20:41 [INFO] /99.184.79.101:55332 lost connection
+2011-11-20 22:21:58 [INFO] /99.184.79.101:55703 lost connection
+2011-11-20 22:22:08 [INFO] StarfleetWizard [/99.184.79.101:55411] logged in with entity id 6884 at (-5.5, 72.0, -6.5)
+2011-11-20 22:23:14 [INFO] <bccbrendan> what you up to?
+2011-11-20 22:23:29 [INFO] <StarfleetWizard> derp i dont know which way the house is
+2011-11-20 22:23:39 [INFO] <bccbrendan> are you above ground?
+2011-11-20 22:23:58 [INFO] <StarfleetWizard> yep
+2011-11-20 22:24:10 [INFO] <StarfleetWizard> at the spawn point
+2011-11-20 22:24:17 [INFO] <bccbrendan> follow the clouds
+2011-11-20 22:24:51 [INFO] bccbrendan issued server command: tp StarfleetWizard bccbrendan
+2011-11-20 22:24:51 [INFO] bccbrendan: Teleporting StarfleetWizard to bccbrendan.
+2011-11-20 22:38:04 [INFO] <bccbrendan> mushrooms!
+2011-11-20 22:40:48 [INFO] /192.168.1.10:62009 lost connection
+2011-11-20 22:40:53 [INFO] /99.184.79.101:55060 lost connection
+2011-11-20 22:41:07 [INFO] /192.168.1.10:62015 lost connection
+2011-11-20 22:41:16 [INFO] /99.184.79.101:55310 lost connection
+2011-11-20 22:41:24 [INFO] jollysnowman [/192.168.1.10:62029] logged in with entity id 19772 at (-156.5, 64.5625, -94.5)
+2011-11-20 22:41:26 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 22:41:34 [INFO] <jollysnowman> there is a cake here
+2011-11-20 22:57:12 [INFO] thebhump [/68.203.5.187:49396] logged in with entity id 32607 at (-5.5, 74.62000000476837, -5.5)
+2011-11-20 22:57:15 [INFO] <jollysnowman> yo
+2011-11-20 22:57:22 [INFO] <thebhump> fuckin snow
+2011-11-20 22:57:45 [INFO] <jollysnowman> head toward the large phallic tower
+2011-11-20 23:04:40 [INFO] <thebhump> creeper behind the base
+2011-11-20 23:05:00 [INFO] <thebhump> thatssSSSsss a very nice everything you have there
+2011-11-20 23:05:31 [INFO] <jollysnowman> we need to make bhump a bed
+2011-11-20 23:06:10 [INFO] <thebhump> we need to kill that fucking creeper
+2011-11-20 23:06:17 [INFO] <thebhump> he's starin at me
+2011-11-20 23:06:56 [INFO] <thebhump> for sparta!
+2011-11-20 23:07:09 [INFO] <jollysnowman> D:
+2011-11-20 23:07:40 [INFO] <jollysnowman> i accidentally got your stuff lol
+2011-11-20 23:08:41 [INFO] <thebhump> im setting up my server for port forwarding
+2011-11-20 23:08:51 [INFO] <thebhump> need to make a whitelist though
+2011-11-20 23:09:09 [INFO] <jollysnowman> psh who needs whitelists
+2011-11-20 23:12:42 [INFO] <thebhump> The creeper damage is repaired!
+2011-11-20 23:15:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-20 23:15:11 [INFO] StarfleetWizard lost connection: disconnect.genericReason
+2011-11-20 23:15:11 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-11-20 23:15:14 [INFO] CONSOLE: Stopping the server..
+2011-11-20 23:15:14 [INFO] Stopping server
+2011-11-20 23:15:14 [INFO] Saving chunks
+2011-11-20 23:15:14 [INFO] Saving chunks
+2011-11-20 23:15:14 [INFO] Saving chunks
+2011-11-20 23:15:16 [INFO] Starting minecraft server version 1.0.0
+2011-11-20 23:15:16 [INFO] Loading properties
+2011-11-20 23:15:16 [INFO] Starting Minecraft server on *:25565
+2011-11-20 23:15:16 [INFO] Preparing level "world"
+2011-11-20 23:15:16 [INFO] Default game type: 0
+2011-11-20 23:15:16 [INFO] Preparing start region for level 0
+2011-11-20 23:15:17 [INFO] Done (600326030ns)! For help, type "help" or "?"
+2011-11-20 23:16:41 [INFO] /68.203.5.187:49928 lost connection
+2011-11-20 23:17:05 [INFO] /192.168.1.10:62109 lost connection
+2011-11-20 23:17:08 [INFO] /99.184.79.101:55494 lost connection
+2011-11-20 23:17:18 [INFO] /192.168.1.10:62119 lost connection
+2011-11-20 23:17:20 [INFO] thebhump [/68.203.5.187:49978] logged in with entity id 334 at (-148.8292595902827, 64.0, -100.55561280939148)
+2011-11-20 23:17:22 [INFO] jollysnowman [/99.184.79.101:56279] logged in with entity id 415 at (-9.750960480852513, 72.0, -216.72091529764603)
+2011-11-20 23:22:25 [INFO] <thebhump> anybody want a pet spider?
+2011-11-20 23:22:29 [INFO] <jollysnowman> D:
+2011-11-20 23:23:01 [INFO] <thebhump> hes over by the tower
+2011-11-20 23:23:09 [INFO] <thebhump> they're friendly in daytime
+2011-11-20 23:23:13 [INFO] <jollysnowman> how is he not attacking you
+2011-11-20 23:23:16 [INFO] <jollysnowman> WAIT REALLY
+2011-11-20 23:23:16 [INFO] <jollysnowman> F
+2011-11-20 23:23:18 [INFO] <jollysnowman> F
+2011-11-20 23:23:46 [INFO] <thebhump> see?
+2011-11-20 23:24:11 [INFO] <thebhump> get some glass, chester needs a terrarium
+2011-11-20 23:24:21 [INFO] <jollysnowman> lol put him in the treehouse
+2011-11-20 23:24:43 [INFO] <thebhump> i wonder if saddles work on spiders
+2011-11-20 23:26:20 [INFO] <thebhump> ha!
+2011-11-20 23:26:25 [INFO] /99.184.79.101:55196 lost connection
+2011-11-20 23:26:26 [INFO] <thebhump> trapped him!
+2011-11-20 23:26:33 [INFO] <jollysnowman> can we breed spiders?
+2011-11-20 23:26:44 [INFO] bccbrendan [/99.184.79.101:55266] logged in with entity id 5488 at (-151.20649790989145, 64.0, -94.7599029876959)
+2011-11-20 23:27:00 [INFO] <thebhump> we caught a spider!
+2011-11-20 23:27:04 [INFO] <bccbrendan> hahaha
+2011-11-20 23:27:06 [INFO] <thebhump> and named him chester!
+2011-11-20 23:27:23 [INFO] <bccbrendan> oooh now we can milk him for string?
+2011-11-20 23:27:32 [INFO] <jollysnowman> brendan can we breed spiders
+2011-11-20 23:27:37 [INFO] <thebhump> i don't think spiders work like that
+2011-11-20 23:27:43 [INFO] <bccbrendan> yeah... nope
+2011-11-20 23:27:43 [INFO] <jollysnowman> laaaaam
+2011-11-20 23:27:54 [INFO] <bccbrendan> we can breed lambs tho
+2011-11-20 23:28:00 [INFO] <thebhump> i just got my port forwarding up if you guys want to see my abode
+2011-11-20 23:28:02 [INFO] <jollysnowman> har har
+2011-11-20 23:28:10 [INFO] <thebhump> bhump.kicks-ass.org
+2011-11-20 23:28:14 [INFO] <jollysnowman> haha
+2011-11-20 23:28:51 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-20 23:29:28 [INFO] thebhump lost connection: disconnect.quitting
+2011-11-20 23:29:42 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 23:31:32 [INFO] bccbrendan [/99.184.79.101:55245] logged in with entity id 7297 at (-153.49303888451547, 64.5625, -94.01138226245816)
+2011-11-20 23:31:34 [INFO] /68.203.5.187:50342 lost connection
+2011-11-20 23:33:10 [INFO] /68.203.5.187:50397 lost connection
+2011-11-20 23:33:19 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-20 23:39:51 [INFO] thebhump [/68.203.5.187:50739] logged in with entity id 7929 at (-153.65345725488723, 64.0, -89.85060860680164)
+2011-11-20 23:41:01 [INFO] thebhump lost connection: disconnect.quitting
+2011-11-21 00:08:30 [INFO] deleryth [/98.194.220.17:49917] logged in with entity id 8464 at (-153.28259355159383, 59.0, -41.757659715256466)
+2011-11-21 00:13:34 [INFO] deleryth lost connection: disconnect.quitting
+2011-11-21 05:54:53 [INFO] Unknown console command. Type "help" for help.
+2011-11-21 05:54:59 [INFO] CONSOLE: Stopping the server..
+2011-11-21 05:54:59 [INFO] Stopping server
+2011-11-21 05:54:59 [INFO] Saving chunks
+2011-11-21 05:54:59 [INFO] Saving chunks
+2011-11-21 05:54:59 [INFO] Saving chunks
