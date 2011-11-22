@@ -393,3 +393,44 @@
 2011-11-21 05:54:59 [INFO] Saving chunks
 2011-11-21 05:54:59 [INFO] Saving chunks
 2011-11-21 05:54:59 [INFO] Saving chunks
+2011-11-21 06:03:52 [INFO] Starting minecraft server version 1.0.0
+2011-11-21 06:03:52 [INFO] Loading properties
+2011-11-21 06:03:52 [INFO] Starting Minecraft server on *:25565
+2011-11-21 06:03:52 [INFO] Preparing level "world"
+2011-11-21 06:03:52 [INFO] Default game type: 0
+2011-11-21 06:03:52 [INFO] Preparing start region for level 0
+2011-11-21 06:03:52 [INFO] Done (581368859ns)! For help, type "help" or "?"
+2011-11-21 18:56:07 [INFO] deleryth [/98.194.220.17:59158] logged in with entity id 1766 at (-161.52388912803767, 56.0, -84.93846264793838)
+2011-11-21 19:19:32 [INFO] deleryth lost connection: disconnect.quitting
+2011-11-21 19:20:56 [INFO] /99.41.68.254:56122 lost connection
+2011-11-21 19:48:09 [INFO] deleryth [/98.194.220.17:60830] logged in with entity id 13028 at (-153.71875, 57.0, -49.875)
+2011-11-21 19:49:19 [INFO] deleryth lost connection: disconnect.genericReason
+2011-11-21 19:50:04 [INFO] deleryth [/98.194.220.17:60880] logged in with entity id 13321 at (-153.71875, 64.0, -49.875)
+2011-11-21 20:02:45 [INFO] /192.168.1.10:60139 lost connection
+2011-11-21 20:02:49 [INFO] /99.41.68.254:56420 lost connection
+2011-11-21 20:03:06 [INFO] jollysnowman [/192.168.1.10:60145] logged in with entity id 26311 at (-164.46345144723244, 56.0, -87.90318943792184)
+2011-11-21 20:03:13 [INFO] jollysnowman issued server command: list
+2011-11-21 20:07:25 [INFO] <deleryth> sup
+2011-11-21 20:07:29 [INFO] <jollysnowman> nm
+2011-11-21 20:07:39 [INFO] <jollysnowman> making torches
+2011-11-21 20:15:17 [INFO] <jollysnowman> where're the strip mines?
+2011-11-21 20:15:48 [INFO] <deleryth> at th treasure room go over the bridge, then down
+2011-11-21 20:17:45 [INFO] <jollysnowman> downthe ladder?
+2011-11-21 20:18:13 [INFO] <deleryth> no
+2011-11-21 20:19:41 [INFO] <deleryth> you should get to a huge ravine, it is at the base
+2011-11-21 20:20:50 [INFO] <jollysnowman> this is confusing lol
+2011-11-21 20:21:23 [INFO] <deleryth> well some of it is clean, and some of it is a combo of the ravine and exploration runs
+2011-11-21 20:21:38 [INFO] <deleryth> well and chase
+2011-11-21 20:22:21 [INFO] <jollysnowman> hahahaha
+2011-11-21 20:22:23 [INFO] <jollysnowman> nic
+2011-11-21 20:22:25 [INFO] <jollysnowman> e
+2011-11-21 20:22:36 [INFO] <jollysnowman> anyway i'm gonna eat bbl
+2011-11-21 20:22:40 [INFO] <deleryth> late
+2011-11-21 20:22:42 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-21 21:42:11 [INFO] deleryth lost connection: disconnect.quitting
+2011-11-22 06:15:29 [INFO] Unknown console command. Type "help" for help.
+2011-11-22 06:15:32 [INFO] CONSOLE: Stopping the server..
+2011-11-22 06:15:32 [INFO] Stopping server
+2011-11-22 06:15:32 [INFO] Saving chunks
+2011-11-22 06:15:32 [INFO] Saving chunks
+2011-11-22 06:15:32 [INFO] Saving chunks
