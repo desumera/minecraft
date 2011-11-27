@@ -478,3 +478,55 @@
 2011-11-25 08:23:55 [INFO] Saving chunks
 2011-11-25 08:23:55 [INFO] Saving chunks
 2011-11-25 08:23:55 [INFO] Saving chunks
+2011-11-25 08:26:04 [INFO] Starting minecraft server version 1.0.0
+2011-11-25 08:26:04 [INFO] Loading properties
+2011-11-25 08:26:04 [INFO] Starting Minecraft server on *:25565
+2011-11-25 08:26:04 [INFO] Preparing level "world"
+2011-11-25 08:26:04 [INFO] Default game type: 0
+2011-11-25 08:26:04 [INFO] Preparing start region for level 0
+2011-11-25 08:26:04 [INFO] Done (582531582ns)! For help, type "help" or "?"
+2011-11-26 03:44:15 [INFO] CONSOLE: Stopping the server..
+2011-11-26 03:44:15 [INFO] Stopping server
+2011-11-26 03:44:15 [INFO] Saving chunks
+2011-11-26 03:44:15 [INFO] Saving chunks
+2011-11-26 03:44:15 [INFO] Saving chunks
+2011-11-26 13:43:05 [INFO] Starting minecraft server version 1.0.0
+2011-11-26 13:43:05 [INFO] Loading properties
+2011-11-26 13:43:05 [INFO] Starting Minecraft server on *:25565
+2011-11-26 13:43:05 [INFO] Preparing level "world"
+2011-11-26 13:43:05 [INFO] Default game type: 0
+2011-11-26 13:43:05 [INFO] Preparing start region for level 0
+2011-11-26 13:43:05 [INFO] Done (582417163ns)! For help, type "help" or "?"
+2011-11-26 13:56:22 [INFO] /192.168.1.3:33569 lost connection
+2011-11-26 13:56:25 [INFO] /99.184.74.131:55140 lost connection
+2011-11-26 13:56:34 [INFO] /192.168.1.3:33575 lost connection
+2011-11-26 13:56:47 [INFO] jollysnowman [/99.184.74.131:55136] logged in with entity id 339 at (-157.21005776270374, 65.0, -92.95183691930492)
+2011-11-26 14:00:49 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-26 15:29:11 [INFO] jollysnowman [/99.184.74.131:55065] logged in with entity id 2384 at (-216.40625, 57.0, 4.125)
+2011-11-26 15:45:20 [INFO] jollysnowman issued server command: give jollysnowman 54 295
+2011-11-26 15:45:20 [INFO] jollysnowman: Giving jollysnowman some 54
+2011-11-26 15:45:35 [INFO] <jollysnowman> give jollysnowman 295 64
+2011-11-26 15:45:43 [INFO] jollysnowman issued server command: give jollysnowman 295 64
+2011-11-26 15:45:43 [INFO] jollysnowman: Giving jollysnowman some 295
+2011-11-26 15:50:40 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-26 20:29:24 [INFO] /99.184.74.131:55039 lost connection
+2011-11-26 20:32:41 [INFO] /99.184.74.131:55058 lost connection
+2011-11-26 20:33:03 [INFO] /192.168.1.13:50215 lost connection
+2011-11-26 20:33:30 [INFO] bccbrendan [/99.184.74.131:55048] logged in with entity id 20941 at (-156.17063763698658, 64.0, -88.72837492772159)
+2011-11-26 20:45:21 [INFO] /99.184.74.131:55026 lost connection
+2011-11-26 20:45:27 [INFO] jollysnowman [/192.168.1.10:54444] logged in with entity id 29408 at (-156.5, 64.5625, -94.5)
+2011-11-26 20:45:34 [INFO] <jollysnowman> house
+2011-11-26 20:45:49 [INFO] <bccbrendan> its not lupus
+2011-11-26 20:47:52 [INFO] <bccbrendan> sleep
+2011-11-26 20:49:28 [INFO] <bccbrendan> good night
+2011-11-26 20:49:56 [INFO] <jollysnowman> maybe if we made the ranch bigger it could hold more
+2011-11-26 21:33:20 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-26 21:34:50 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-26 22:38:43 [INFO] /99.184.74.131:55010 lost connection
+2011-11-26 22:38:55 [INFO] bccbrendan [/99.184.74.131:55045] logged in with entity id 96131 at (-201.07758277335284, 70.5, -165.32772986870515)
+2011-11-26 23:18:00 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-27 07:20:40 [INFO] CONSOLE: Stopping the server..
+2011-11-27 07:20:40 [INFO] Stopping server
+2011-11-27 07:20:40 [INFO] Saving chunks
+2011-11-27 07:20:40 [INFO] Saving chunks
+2011-11-27 07:20:40 [INFO] Saving chunks
