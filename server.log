@@ -530,3 +530,78 @@
 2011-11-27 07:20:40 [INFO] Saving chunks
 2011-11-27 07:20:40 [INFO] Saving chunks
 2011-11-27 07:20:40 [INFO] Saving chunks
+2011-11-27 07:23:29 [INFO] Starting minecraft server version 1.0.0
+2011-11-27 07:23:29 [INFO] Loading properties
+2011-11-27 07:23:29 [INFO] Starting Minecraft server on *:25565
+2011-11-27 07:23:29 [INFO] Preparing level "world"
+2011-11-27 07:23:29 [INFO] Default game type: 0
+2011-11-27 07:23:29 [INFO] Preparing start region for level 0
+2011-11-27 07:23:30 [INFO] Done (627595597ns)! For help, type "help" or "?"
+2011-11-27 07:25:09 [INFO] CONSOLE: Stopping the server..
+2011-11-27 07:25:09 [INFO] Stopping server
+2011-11-27 07:25:09 [INFO] Saving chunks
+2011-11-27 07:25:09 [INFO] Saving chunks
+2011-11-27 07:25:09 [INFO] Saving chunks
+2011-11-27 13:44:07 [INFO] Starting minecraft server version 1.0.0
+2011-11-27 13:44:07 [INFO] Loading properties
+2011-11-27 13:44:07 [INFO] Starting Minecraft server on *:25565
+2011-11-27 13:44:07 [INFO] Preparing level "world"
+2011-11-27 13:44:07 [INFO] Default game type: 0
+2011-11-27 13:44:08 [INFO] Preparing start region for level 0
+2011-11-27 13:44:08 [INFO] Done (780166289ns)! For help, type "help" or "?"
+2011-11-27 13:51:50 [INFO] /99.184.74.131:55139 lost connection
+2011-11-27 13:51:54 [INFO] jollysnowman [/192.168.1.10:55674] logged in with entity id 367 at (-154.58786397632335, 65.0, -93.13461772493565)
+2011-11-27 13:55:35 [INFO] jollysnowman issued server command: list
+2011-11-27 13:56:06 [INFO] /99.184.74.131:55088 lost connection
+2011-11-27 13:56:16 [INFO] bccbrendan [/99.184.74.131:55017] logged in with entity id 3786 at (-152.64343160838467, 64.0, -90.59755029356022)
+2011-11-27 13:56:19 [INFO] <jollysnowman> OH HAI
+2011-11-27 13:56:30 [INFO] bccbrendan lost connection: disconnect.genericReason
+2011-11-27 13:56:49 [INFO] bccbrendan [/99.184.74.131:55103] logged in with entity id 3984 at (-152.64343160838467, 64.0, -90.59755029356022)
+2011-11-27 14:08:42 [INFO] <jollysnowman> how do you make a map
+2011-11-27 14:08:48 [INFO] <bccbrendan> get a compas
+2011-11-27 14:09:26 [INFO] <bccbrendan> then surround it with paper
+2011-11-27 14:13:45 [INFO] <jollysnowman> we need to revise the house mine so we can strip mine it
+2011-11-27 14:13:52 [INFO] <jollysnowman> the branching's not gonna work how it is
+2011-11-27 14:14:07 [INFO] <bccbrendan> no?
+2011-11-27 14:14:16 [INFO] <jollysnowman> well
+2011-11-27 14:14:24 [INFO] <jollysnowman> i guess they'll just intersect if you go far enough
+2011-11-27 14:14:37 [INFO] <bccbrendan> how about this
+2011-11-27 14:14:45 [INFO] <bccbrendan> we each get one of these four mines
+2011-11-27 14:14:57 [INFO] <bccbrendan> and you can go in that direction and to the right
+2011-11-27 14:15:07 [INFO] <jollysnowman> k
+2011-11-27 14:15:11 [INFO] <jollysnowman> THEN GET OUT OF MY MINE
+2011-11-27 14:15:17 [INFO] <bccbrendan> lol
+2011-11-27 14:15:23 [INFO] <bccbrendan> i don't see a sign
+2011-11-27 14:15:27 [INFO] <jollysnowman> brb gonna make a sign
+2011-11-27 14:58:43 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-27 15:00:46 [INFO] bccbrendan [/99.184.74.131:55038] logged in with entity id 41992 at (-188.5521295942755, 67.0, -150.08508066784404)
+2011-11-27 15:03:13 [INFO] <jollysnowman> how do you look at your map
+2011-11-27 15:03:21 [INFO] <bccbrendan> put it in your hand
+2011-11-27 15:03:24 [INFO] <bccbrendan> look down
+2011-11-27 15:03:38 [INFO] <jollysnowman> oh. that's so obvious lol
+2011-11-27 15:07:05 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-27 15:53:41 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-27 15:54:34 [INFO] /99.184.74.131:55048 lost connection
+2011-11-27 15:54:47 [INFO] bccbrendan [/99.184.74.131:55081] logged in with entity id 70013 at (-72.97906122811615, 11.0, -112.69999998807904)
+2011-11-27 16:00:12 [INFO] /192.168.1.3:40468 lost connection
+2011-11-27 16:00:20 [INFO] /99.184.74.131:55098 lost connection
+2011-11-27 16:00:34 [INFO] jollysnowman [/99.184.74.131:55041] logged in with entity id 73800 at (-150.3125, 64.0, -89.1875)
+2011-11-27 16:00:45 [INFO] <bccbrendan> we got an elevator
+2011-11-27 16:00:58 [INFO] <jollysnowman> :O
+2011-11-27 16:02:23 [INFO] <jollysnowman> it's missing one at the top
+2011-11-27 16:02:29 [INFO] <jollysnowman> i got stuck lol
+2011-11-27 16:02:41 [INFO] <bccbrendan> nah, turn around, there's one
+2011-11-27 16:02:47 [INFO] <jollysnowman> no like, on the way up
+2011-11-27 16:02:50 [INFO] <jollysnowman> i got stuck
+2011-11-27 16:03:26 [INFO] <jollysnowman> wait i think i messed it up
+2011-11-27 16:03:55 [INFO] <jollysnowman> ok is there a way to take it down
+2011-11-27 16:04:25 [INFO] <bccbrendan> lol wtf did you do
+2011-11-27 16:04:29 [INFO] <jollysnowman> i have no idea
+2011-11-27 16:38:46 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-27 16:43:19 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-27 16:49:27 [INFO] Unknown console command. Type "help" for help.
+2011-11-27 16:49:28 [INFO] CONSOLE: Stopping the server..
+2011-11-27 16:49:28 [INFO] Stopping server
+2011-11-27 16:49:28 [INFO] Saving chunks
+2011-11-27 16:49:28 [INFO] Saving chunks
+2011-11-27 16:49:28 [INFO] Saving chunks
