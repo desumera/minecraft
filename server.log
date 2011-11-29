@@ -664,3 +664,28 @@
 2011-11-28 23:51:00 [INFO] Saving chunks
 2011-11-28 23:51:00 [INFO] Saving chunks
 2011-11-28 23:51:00 [INFO] Saving chunks
+2011-11-28 23:53:04 [INFO] Starting minecraft server version 1.0.0
+2011-11-28 23:53:04 [INFO] Loading properties
+2011-11-28 23:53:05 [INFO] Starting Minecraft server on *:25565
+2011-11-28 23:53:05 [INFO] Preparing level "world"
+2011-11-28 23:53:05 [INFO] Default game type: 0
+2011-11-28 23:53:05 [INFO] Preparing start region for level 0
+2011-11-28 23:53:05 [INFO] Done (631996698ns)! For help, type "help" or "?"
+2011-11-29 00:25:47 [INFO] /99.184.74.131:55196 lost connection
+2011-11-29 00:25:59 [INFO] bccbrendan [/99.184.74.131:55010] logged in with entity id 490 at (-64.11945526238165, 18.5, -88.98984787457427)
+2011-11-29 00:45:53 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-29 08:11:02 [INFO] /192.168.1.3:47645 lost connection
+2011-11-29 08:11:04 [INFO] /99.184.74.131:55114 lost connection
+2011-11-29 08:11:15 [INFO] /192.168.1.3:47668 lost connection
+2011-11-29 08:11:18 [INFO] /99.184.74.131:55045 lost connection
+2011-11-29 08:11:25 [INFO] /99.184.74.131:55024 lost connection
+2011-11-29 08:11:29 [INFO] jollysnowman [/192.168.1.3:47677] logged in with entity id 15460 at (-197.4082458174962, 11.0, -136.10215789326048)
+2011-11-29 08:38:33 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-29 11:25:08 [INFO] /192.168.1.3:50444 lost connection
+2011-11-29 11:25:11 [INFO] jollysnowman [/99.184.74.131:55092] logged in with entity id 34196 at (-154.625, 64.0, -85.625)
+2011-11-29 11:57:45 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-29 11:57:49 [INFO] CONSOLE: Stopping the server..
+2011-11-29 11:57:49 [INFO] Stopping server
+2011-11-29 11:57:49 [INFO] Saving chunks
+2011-11-29 11:57:50 [INFO] Saving chunks
+2011-11-29 11:57:50 [INFO] Saving chunks
