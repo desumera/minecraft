@@ -742,3 +742,42 @@
 2011-11-29 17:40:00 [INFO] Saving chunks
 2011-11-29 17:40:00 [INFO] Saving chunks
 2011-11-29 17:40:00 [INFO] Saving chunks
+2011-11-30 03:32:12 [INFO] Starting minecraft server version 1.0.0
+2011-11-30 03:32:12 [INFO] Loading properties
+2011-11-30 03:32:12 [INFO] Starting Minecraft server on *:25565
+2011-11-30 03:32:12 [INFO] Preparing level "world"
+2011-11-30 03:32:12 [INFO] Default game type: 0
+2011-11-30 03:32:12 [INFO] Preparing start region for level 0
+2011-11-30 03:32:13 [INFO] Done (783560330ns)! For help, type "help" or "?"
+2011-11-30 03:32:28 [INFO] /99.184.87.10:55098 lost connection
+2011-11-30 03:32:30 [INFO] /192.168.1.10:55423 lost connection
+2011-11-30 03:32:40 [INFO] jollysnowman [/99.184.87.10:55090] logged in with entity id 326 at (-155.0625, 65.0, -92.46875)
+2011-11-30 03:32:46 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-30 04:06:10 [INFO] bccbrendan [/99.184.87.10:55205] logged in with entity id 435 at (-152.9800237422426, 64.0, -91.44915385126177)
+2011-11-30 04:29:40 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-30 04:35:54 [INFO] bccbrendan [/99.184.87.10:55070] logged in with entity id 21841 at (-128.30481143652378, 67.0, -47.83812315552423)
+2011-11-30 04:36:36 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-30 06:10:18 [INFO] /99.184.87.10:55046 lost connection
+2011-11-30 06:12:19 [INFO] bccbrendan [/99.184.87.10:55017] logged in with entity id 22412 at (-124.45135485100363, 64.0, -76.11372240268537)
+2011-11-30 06:16:09 [INFO] Unknown console command. Type "help" for help.
+2011-11-30 06:16:12 [INFO] [CONSOLE] oh hai
+2011-11-30 06:16:18 [INFO] <bccbrendan> lol hai
+2011-11-30 06:17:12 [INFO] jollysnowman [/99.184.87.10:55038] logged in with entity id 29880 at (-159.69999998807907, 64.0, -90.77894236461478)
+2011-11-30 06:17:30 [INFO] <jollysnowman> did you know you can trap a creeper between the front door pressure plates
+2011-11-30 06:18:51 [INFO] <bccbrendan> what?
+2011-11-30 06:19:23 [INFO] <jollysnowman> yeah a creeper followed me
+2011-11-30 06:19:35 [INFO] <jollysnowman> and got stuck in the door
+2011-11-30 06:23:42 [INFO] <jollysnowman> lol i'm on your bed
+2011-11-30 06:23:45 [INFO] <jollysnowman> ewwwww
+2011-11-30 06:23:53 [INFO] <bccbrendan> help me kill this enderman!Q
+2011-11-30 06:24:39 [INFO] <jollysnowman> how does on ekill them
+2011-11-30 06:24:51 [INFO] <bccbrendan> sword
+2011-11-30 06:25:10 [INFO] <bccbrendan> got im
+2011-11-30 06:26:16 [INFO] <jollysnowman> we need to light the top of the new mushrooms
+2011-11-30 06:34:32 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-11-30 06:39:36 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-30 12:13:37 [INFO] CONSOLE: Stopping the server..
+2011-11-30 12:13:37 [INFO] Stopping server
+2011-11-30 12:13:37 [INFO] Saving chunks
+2011-11-30 12:13:37 [INFO] Saving chunks
+2011-11-30 12:13:37 [INFO] Saving chunks
