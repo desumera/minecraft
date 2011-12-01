@@ -781,3 +781,29 @@
 2011-11-30 12:13:37 [INFO] Saving chunks
 2011-11-30 12:13:37 [INFO] Saving chunks
 2011-11-30 12:13:37 [INFO] Saving chunks
+2011-11-30 07:42:02 [INFO] Starting minecraft server version 1.0.0
+2011-11-30 07:42:02 [INFO] Loading properties
+2011-11-30 07:42:02 [INFO] Starting Minecraft server on *:25565
+2011-11-30 07:42:02 [INFO] Preparing level "world"
+2011-11-30 07:42:02 [INFO] Default game type: 0
+2011-11-30 07:42:02 [INFO] Preparing start region for level 0
+2011-11-30 07:42:03 [INFO] Done (829170786ns)! For help, type "help" or "?"
+2011-11-30 15:19:41 [INFO] bccbrendan [/99.73.18.210:55017] logged in with entity id 2025 at (-165.08116847254345, 56.0, -86.45935394666664)
+2011-11-30 15:28:27 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-30 19:46:59 [INFO] bccbrendan [/99.73.21.216:55077] logged in with entity id 10660 at (-63.65724597444547, 18.0, -86.30000001192091)
+2011-11-30 19:54:09 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-30 19:54:18 [INFO] bccbrendan [/99.73.21.216:55062] logged in with entity id 16963 at (-154.96814683514808, 63.5, -91.30000001192093)
+2011-11-30 20:20:21 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-30 20:54:49 [INFO] /99.73.21.216:55106 lost connection
+2011-11-30 20:55:04 [INFO] bccbrendan [/99.73.21.216:55049] logged in with entity id 47221 at (-65.32973269469177, 20.0, -89.01053402537717)
+2011-11-30 20:57:34 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-30 22:33:40 [INFO] bccbrendan [/99.73.21.216:55339] logged in with entity id 49969 at (-62.61561014325629, 18.0, -88.70157963123654)
+2011-11-30 22:40:22 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-11-30 23:56:06 [INFO] bccbrendan [/99.73.21.216:55017] logged in with entity id 56329 at (-72.30000001192093, 11.0, -118.4371862830179)
+2011-12-01 00:33:54 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-12-01 05:27:16 [INFO] Unknown console command. Type "help" for help.
+2011-12-01 05:27:17 [INFO] CONSOLE: Stopping the server..
+2011-12-01 05:27:17 [INFO] Stopping server
+2011-12-01 05:27:17 [INFO] Saving chunks
+2011-12-01 05:27:18 [INFO] Saving chunks
+2011-12-01 05:27:18 [INFO] Saving chunks
