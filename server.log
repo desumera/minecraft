@@ -973,3 +973,20 @@
 2011-12-03 10:42:43 [INFO] Saving chunks
 2011-12-03 10:42:44 [INFO] Saving chunks
 2011-12-03 10:42:44 [INFO] Saving chunks
+2011-12-03 12:01:56 [INFO] Starting minecraft server version 1.0.0
+2011-12-03 12:01:56 [INFO] Loading properties
+2011-12-03 12:01:56 [INFO] Starting Minecraft server on *:25565
+2011-12-03 12:01:56 [INFO] Preparing level "world"
+2011-12-03 12:01:56 [INFO] Default game type: 0
+2011-12-03 12:01:56 [INFO] Preparing start region for level 0
+2011-12-03 12:01:57 [INFO] Done (586789827ns)! For help, type "help" or "?"
+2011-12-03 17:03:41 [INFO] jollysnowman [/99.76.7.156:55435] logged in with entity id 1669 at (-212.69999998807907, 11.0, -135.3210529193742)
+2011-12-03 17:24:27 [INFO] /99.76.7.156:55225 lost connection
+2011-12-03 17:25:02 [INFO] /99.76.7.156:55024 lost connection
+2011-12-03 17:25:09 [INFO] /99.76.7.156:55057 lost connection
+2011-12-03 17:25:57 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-12-03 17:32:32 [INFO] CONSOLE: Stopping the server..
+2011-12-03 17:32:32 [INFO] Stopping server
+2011-12-03 17:32:32 [INFO] Saving chunks
+2011-12-03 17:32:32 [INFO] Saving chunks
+2011-12-03 17:32:32 [INFO] Saving chunks
