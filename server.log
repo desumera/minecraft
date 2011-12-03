@@ -839,3 +839,123 @@
 2011-12-01 16:32:29 [INFO] Saving chunks
 2011-12-01 16:32:29 [INFO] Saving chunks
 2011-12-01 16:32:29 [INFO] Saving chunks
+2011-12-01 16:35:53 [INFO] Starting minecraft server version 1.0.0
+2011-12-01 16:35:53 [INFO] Loading properties
+2011-12-01 16:35:53 [INFO] Starting Minecraft server on *:25565
+2011-12-01 16:35:53 [INFO] Preparing level "world"
+2011-12-01 16:35:53 [INFO] Default game type: 0
+2011-12-01 16:35:53 [INFO] Preparing start region for level 0
+2011-12-01 16:35:54 [INFO] Done (615217323ns)! For help, type "help" or "?"
+2011-12-01 16:36:00 [INFO] CONSOLE: Stopping the server..
+2011-12-01 16:36:00 [INFO] Stopping server
+2011-12-01 16:36:00 [INFO] Saving chunks
+2011-12-01 16:36:00 [INFO] Saving chunks
+2011-12-01 16:36:00 [INFO] Saving chunks
+2011-12-01 16:36:13 [INFO] Starting minecraft server version 1.0.0
+2011-12-01 16:36:13 [INFO] Loading properties
+2011-12-01 16:36:13 [INFO] Starting Minecraft server on *:25565
+2011-12-01 16:36:13 [INFO] Preparing level "world"
+2011-12-01 16:36:13 [INFO] Default game type: 0
+2011-12-01 16:36:14 [INFO] Preparing start region for level 0
+2011-12-01 16:36:14 [INFO] Done (572571779ns)! For help, type "help" or "?"
+2011-12-01 17:01:25 [INFO] /99.73.21.216:55578 lost connection
+2011-12-01 17:01:28 [INFO] jollysnowman [/192.168.1.10:51659] logged in with entity id 418 at (-156.49187040633635, 65.0, -93.25021899602996)
+2011-12-01 17:22:52 [INFO] bccbrendan [/99.73.21.216:55003] logged in with entity id 20756 at (-158.54950234189553, 64.0, -89.95115717838249)
+2011-12-01 17:22:57 [INFO] <bccbrendan> hello?
+2011-12-01 17:23:16 [INFO] <bccbrendan> anybody home?
+2011-12-01 17:23:20 [INFO] <jollysnowman> nopw
+2011-12-01 17:23:21 [INFO] bccbrendan issued server command: who
+2011-12-01 17:23:21 [INFO] Unknown console command. Type "help" for help.
+2011-12-01 17:23:25 [INFO] <jollysnowman> chuck testa
+2011-12-01 17:23:26 [INFO] <bccbrendan> o hai
+2011-12-01 17:23:50 [INFO] <bccbrendan> we got an enchantment table up
+2011-12-01 17:23:55 [INFO] <bccbrendan> you got any levels to spend?
+2011-12-01 17:23:56 [INFO] <jollysnowman> i saw
+2011-12-01 17:24:02 [INFO] <jollysnowman> i lit up the tower lol
+2011-12-01 17:24:04 [INFO] <jollysnowman> i'm at 10
+2011-12-01 17:24:16 [INFO] <bccbrendan> you could probably get something useful for that
+2011-12-01 17:24:29 [INFO] <jollysnowman> on my way up
+2011-12-01 17:24:33 [INFO] <bccbrendan> i really only enchant diamond stuff tho
+2011-12-01 17:25:33 [INFO] <jollysnowman> also, i didn't break the elevator. it was like that!
+2011-12-01 17:25:39 [INFO] <bccbrendan> yeah i saw that
+2011-12-01 17:25:45 [INFO] <bccbrendan> just a glitch man
+2011-12-01 17:25:50 [INFO] <jollysnowman> what should i bring
+2011-12-01 17:25:54 [INFO] <bccbrendan> its like impossible to break on single player
+2011-12-01 17:26:00 [INFO] <bccbrendan> do you have a diamond pick?
+2011-12-01 17:26:04 [INFO] <jollysnowman> i can make one
+2011-12-01 17:26:10 [INFO] <bccbrendan> cool
+2011-12-01 17:27:18 [INFO] <bccbrendan> so each time you place the item in the table
+2011-12-01 17:27:21 [INFO] <jollysnowman> makes you wonder how a bug can only be in multiplayer
+2011-12-01 17:27:25 [INFO] <bccbrendan> it randomizes available levels
+2011-12-01 17:27:38 [INFO] <bccbrendan> so just keep trying until you see a 10
+2011-12-01 17:27:58 [INFO] <bccbrendan> yeah I don't know about the bug thing, maybe something is calculated once per client
+2011-12-01 17:28:40 [INFO] <jollysnowman> sweet
+2011-12-01 17:28:41 [INFO] <bccbrendan> get anything good?
+2011-12-01 17:28:49 [INFO] <jollysnowman> level 10: efficieny 1
+2011-12-01 17:29:00 [INFO] <bccbrendan> cool, so it'll mine a little faster
+2011-12-01 17:29:22 [INFO] <jollysnowman> i should enchant my diamond hat
+2011-12-01 17:29:23 [INFO] <jollysnowman> haha
+2011-12-01 17:29:26 [INFO] <bccbrendan> yeah!
+2011-12-01 17:29:35 [INFO] <jollysnowman> right as i get to the bottom
+2011-12-01 17:29:41 [INFO] <bccbrendan> you found some serious diamonds huh?
+2011-12-01 17:29:49 [INFO] <jollysnowman> 20
+2011-12-01 17:29:56 [INFO] <bccbrendan> daaaayuumm
+2011-12-01 17:30:22 [INFO] <jollysnowman> oh i lost 10 levels
+2011-12-01 17:30:24 [INFO] <jollysnowman> shiz
+2011-12-01 17:30:28 [INFO] <bccbrendan> oh yeah
+2011-12-01 17:30:32 [INFO] <bccbrendan> that's how that works
+2011-12-01 17:41:33 [INFO] <jollysnowman> bastard
+2011-12-01 17:41:46 [INFO] <jollysnowman> some light actually leaked through
+2011-12-01 17:41:48 [INFO] <jollysnowman> lol
+2011-12-01 17:41:51 [INFO] jollysnowman issued server command: list
+2011-12-01 17:41:53 [INFO] <bccbrendan> whaaa?
+2011-12-01 17:41:55 [INFO] <bccbrendan> how?
+2011-12-01 17:42:01 [INFO] <jollysnowman> yeah i could see that it was cobblestone
+2011-12-01 17:42:03 [INFO] <bccbrendan> i thought i had you pretty good!
+2011-12-01 17:42:17 [INFO] <bccbrendan> ok obsidian next time then
+2011-12-01 17:42:37 [INFO] <jollysnowman> that would actually be hilarious
+2011-12-01 17:44:41 [INFO] <jollysnowman> can you upgrade things that are already enchanted?
+2011-12-01 17:44:48 [INFO] <bccbrendan> i don't think so
+2011-12-01 17:44:55 [INFO] <jollysnowman> ffffuuuuuu
+2011-12-01 17:45:01 [INFO] <jollysnowman> also, i mined right into a zombie lol
+2011-12-01 17:45:06 [INFO] <bccbrendan> haha
+2011-12-01 17:50:12 [INFO] <bccbrendan> oooh my humble indie bundle game is done downloading
+2011-12-01 17:50:15 [INFO] <bccbrendan> see ya
+2011-12-01 17:50:17 [INFO] <jollysnowman> nice
+2011-12-01 17:50:18 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-12-01 17:52:28 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-12-02 07:21:24 [INFO] CONSOLE: Stopping the server..
+2011-12-02 07:21:24 [INFO] Stopping server
+2011-12-02 07:21:24 [INFO] Saving chunks
+2011-12-02 07:21:25 [INFO] Saving chunks
+2011-12-02 07:21:25 [INFO] Saving chunks
+2011-12-02 07:27:22 [INFO] Starting minecraft server version 1.0.0
+2011-12-02 07:27:22 [INFO] Loading properties
+2011-12-02 07:27:22 [INFO] Starting Minecraft server on *:25565
+2011-12-02 07:27:22 [INFO] Preparing level "world"
+2011-12-02 07:27:22 [INFO] Default game type: 0
+2011-12-02 07:27:22 [INFO] Preparing start region for level 0
+2011-12-02 07:27:22 [INFO] Done (584025871ns)! For help, type "help" or "?"
+2011-12-02 12:25:29 [INFO] /99.76.7.148:55053 lost connection
+2011-12-02 12:25:36 [INFO] bccbrendan [/99.76.7.148:55000] logged in with entity id 1315 at (-76.17784547766759, 11.0, -121.37489487135122)
+2011-12-02 12:31:16 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-12-02 12:42:46 [INFO] bccbrendan [/99.76.7.148:55010] logged in with entity id 5509 at (-168.69999998807907, 15.0, -99.28380799889024)
+2011-12-02 13:03:03 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-12-02 16:04:12 [INFO] /99.76.7.148:55475 lost connection
+2011-12-02 16:04:30 [INFO] bccbrendan [/99.76.7.148:55331] logged in with entity id 22539 at (-63.976137125517575, 18.5, -89.69999998807907)
+2011-12-02 16:20:34 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-12-02 19:17:37 [INFO] bccbrendan [/99.76.7.148:55085] logged in with entity id 39782 at (-63.35140159639633, 19.0, -90.69999998807903)
+2011-12-02 19:51:31 [INFO] bccbrendan lost connection: disconnect.genericReason
+2011-12-02 21:24:42 [INFO] thebhump [/68.203.5.187:50028] logged in with entity id 63645 at (-152.19450674773773, 64.0, -90.93456735199963)
+2011-12-02 21:37:42 [INFO] thebhump lost connection: disconnect.quitting
+2011-12-02 22:36:35 [INFO] /99.76.7.148:55122 lost connection
+2011-12-02 22:36:46 [INFO] /99.76.7.148:55095 lost connection
+2011-12-02 22:36:55 [INFO] /99.76.7.148:55002 lost connection
+2011-12-03 00:07:24 [INFO] /99.76.7.148:55022 lost connection
+2011-12-03 00:07:32 [INFO] bccbrendan [/99.76.7.148:55017] logged in with entity id 79464 at (-147.44179632177335, 64.0, -92.2848547218406)
+2011-12-03 00:36:36 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-12-03 08:14:27 [INFO] CONSOLE: Stopping the server..
+2011-12-03 08:14:27 [INFO] Stopping server
+2011-12-03 08:14:27 [INFO] Saving chunks
+2011-12-03 08:14:27 [INFO] Saving chunks
+2011-12-03 08:14:27 [INFO] Saving chunks
